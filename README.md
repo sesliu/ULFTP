@@ -25,7 +25,7 @@ After login a prompt mode appears, there are some commands to operate it:
 
 help      => show help <br>
 cwd       => access ftp directory <br>
-local del => delete local files in a directory<br>
+localdel => delete local files in a directory<br>
 localdir  => access local directory<br>
 ls        => list ftp directory  or files inside it<br>
 mdelete   => delete ftp files<br>
