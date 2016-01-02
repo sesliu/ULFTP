@@ -13,25 +13,24 @@ Beta version 001
 
 
 =============================
--h => show help
--u => user to connect
--p => password to connect
--s => FTP server
--r => port optional default 21
+-h => show help<br>
+-u => user to connect<br>
+-p => password to connect<br>
+-s => FTP server<br>
+-r => port optional default 21<br>
 
 =============================
 
 After login a prompt mode appears, there are some commands to operate it:
 
-help      => show help 
-cwd       => access ftp directory 
-local del => delete local files in a directory
-localdir  => access local directory
-ls        => list ftp directory  or files inside it
-mdelete   => delete ftp files
-mget      => get ftp files to local directory
-mode      => enable or disable passive mode (default passive mode is true)
-mput      => put local files on ftp
-quit      => quit ftp
-
+help      => show help <br>
+cwd       => access ftp directory <br>
+local del => delete local files in a directory<br>
+localdir  => access local directory<br>
+ls        => list ftp directory  or files inside it<br>
+mdelete   => delete ftp files<br>
+mget      => get ftp files to local directory<br>
+mode      => enable or disable passive mode (default passive mode is true)<br>
+mput      => put local files on ftp<br>
+quit      => quit ftp<br>
 
