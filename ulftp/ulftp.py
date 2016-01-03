@@ -37,12 +37,12 @@ def main(argv):
             print parametro
             print ''
             print 'This help'
-            print '======================'
+            print '==============================='
             print '-u => user to connect'
             print '-p => password to connect'
             print '-s => FTP server'
             print '-r => port optional default 21'
-            print '======================'
+            print '==============================='
             print ''
             sys.exit()
          elif opt in ("-u"):

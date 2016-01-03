@@ -108,7 +108,7 @@ class Prompt(Cmd):
          
         for arquivos in glob.glob(args):
          
-           print 'deleting ' +arquivoslocal
+           print 'deleting ' +arquivos
            os.remove(arquivos)
       
       except Exception,e:
